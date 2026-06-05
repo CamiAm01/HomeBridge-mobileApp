@@ -31,7 +31,7 @@ La aplicación está desarrollada con las siguientes tecnologías y librerías:
 ### ⚙️ Instalación y Configuración
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/usuario/homebridge-mobileApp.git
+   git clone https://github.com/CamiAm01/homebridge-mobileApp.git
    ```
 2. **Abrir en Android Studio:**
    Selecciona la carpeta `App_SaleSquare_HomeBridge`.
