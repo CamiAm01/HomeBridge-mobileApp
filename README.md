@@ -40,4 +40,21 @@ La aplicación está desarrollada con las siguientes tecnologías y librerías:
 4. **Ejecutar:**
    Selecciona un emulador o dispositivo físico con Android SDK 28 o superior.
 
+---
+
+## 👥 Autores
+
+| Nombre |
+|--------|
+| Amaro Villanueva, Camila Elena | 
+| Cuadros Rodriguez, Juan Alejandro | 
+| Huilca Chipana, Gustavo |
+| Mallma Quispe, Ruben Elias |
+| Paredes Zapata, Luiggi Gianfranco |
+| Shimabukuro Uku, Carlos Joel |
+
+Curso: Aplicaciones para Dispositivos Móviles
+Docente: David Gerardo Quevedo Velasco
+UPC — Noviembre 2024
+
 ¡Descubre tu próxima propiedad con HomeBridge!
